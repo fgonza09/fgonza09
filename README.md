@@ -1,5 +1,5 @@
 ## **Hi there** 👋
-Este es un ejemplo para ver que he escrito algo
+Este es un ejemplo de mi primer repositorio como ejemplo.
 <!--
 **fgonza09/fgonza09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
